@@ -1,0 +1,7 @@
+*.csv
+*.pkl
+*.log
+geckodriver
+GSE
+*.jpg
+*.DS_STORE
