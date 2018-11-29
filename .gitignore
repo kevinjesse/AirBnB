@@ -1,6 +1,7 @@
 *.csv
 *.pkl
 *.log
+*.zip
 geckodriver
 GSE
 *.jpg
